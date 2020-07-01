@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-ajax-control/static/css/main.264af142.chunk.css",
+    "main.js": "/monster-ajax-control/static/js/main.dbf4a195.chunk.js",
+    "main.js.map": "/monster-ajax-control/static/js/main.dbf4a195.chunk.js.map",
+    "runtime-main.js": "/monster-ajax-control/static/js/runtime-main.6b12313d.js",
+    "runtime-main.js.map": "/monster-ajax-control/static/js/runtime-main.6b12313d.js.map",
+    "static/js/2.93f389f8.chunk.js": "/monster-ajax-control/static/js/2.93f389f8.chunk.js",
+    "static/js/2.93f389f8.chunk.js.map": "/monster-ajax-control/static/js/2.93f389f8.chunk.js.map",
+    "index.html": "/monster-ajax-control/index.html",
+    "precache-manifest.29dd63f7d189a3ab28ff541f89f6876f.js": "/monster-ajax-control/precache-manifest.29dd63f7d189a3ab28ff541f89f6876f.js",
+    "service-worker.js": "/monster-ajax-control/service-worker.js",
+    "static/css/main.264af142.chunk.css.map": "/monster-ajax-control/static/css/main.264af142.chunk.css.map",
+    "static/js/2.93f389f8.chunk.js.LICENSE.txt": "/monster-ajax-control/static/js/2.93f389f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b12313d.js",
+    "static/js/2.93f389f8.chunk.js",
+    "static/css/main.264af142.chunk.css",
+    "static/js/main.dbf4a195.chunk.js"
+  ]
+}
